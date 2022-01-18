@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1619667189 source:c:\users\mop5\desktop\temp\library1.cpp
+	"library1.h"
+	"orchard.h"
+
+1619327287 c:\users\mop5\desktop\temp\library1.h
+
+1619933582 c:\users\mop5\desktop\temp\orchard.h
+	<list>
+	<set>
+	<iterator>
+	<utility>
+	<iostream>
+
+1619931080 source:c:\users\mop5\desktop\temp\main1.cpp
+	<assert.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"library1.h"
+	<iostream>
+
